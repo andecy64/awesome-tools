@@ -5,50 +5,87 @@ Awesome resources
 
 ## Documentation
 
-Sphinx - Generate python documentation (relatively) easy
-tldr - Community driven man pages
-OpenAPI 3.0 - Generate and document API from Specs - [link](https://github.com/OAI/OpenAPI-Specification)
-Github Markdown - Github flavoured markdown - [link](https://guides.github.com/features/mastering-markdown/)
-Marp - Generating presentations from markdown - [link](https://github.com/marp-team/marp)
+[sphinx](https://github.com/sphinx-doc/sphinx) - Generate python documentation (relatively) easy
+[tldr](https://github.com/tldr-pages/tldr) - Community driven man pages
+[OpenAPI](https://github.com/OAI/OpenAPI-Specification) 3.0 - Generate and document API from Specs
+[Github](https://guides.github.com/features/mastering-markdown/) Markdown - Github flavoured markdown
+[Marp](https://github.com/marp-team/marp) - Generating presentations from markdown
 
 ## SSH
 
-assh - SSH config manager - [link](https://github.com/moul/assh)
+[assh](https://github.com/moul/assh) - SSH config manager
 
 ## SQL
 
-ipython-sql - Use ipython as MySQL shell - [link](https://github.com/catherinedevlin/ipython-sql)
+[ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Use ipython as MySQL shell
+[usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ## Shell
 
-Starship - Cross-shell prompt - [link](https://github.com/starship/starship)
-exa - ls replacement - [link](https://github.com/ogham/exa)
-bat - cat replacement - [link](https://github.com/sharkdp/bat)
-fselect - Search files using mysql syntax
-fd - find replacement
-zoxide - Directory navigation
+[alacritty]
+[pier]
+[Starship](https://github.com/starship/starship) - Cross-shell prompt
+[exa](https://github.com/ogham/exa) - ls replacement
+[bat](https://github.com/sharkdp/bat) - cat replacement
+[fselect](https://github.com/jhspetersson/fselect) - Search files using mysql syntax
+[fd](https://github.com/sharkdp/fd) - find replacement
+[zoxide](https://github.com/ajeetdsouza/zoxide) - Directory navigation
 
 ## Development tools
-jq
-yq
-q
+[jq](https://github.com/stedolan/jq) - lightweight and flexible command-line JSON processor
+[yq](https://github.com/mikefarah/yq) - a lightweight and portable command-line YAML processor
 
 ## AWS
-aws-vault
-kubectx
-saws - AWS Shell - [link](https://github.com/donnemartin/saws)
+[aws-vault](https://github.com/99designs/aws-vault) - a tool to securely store and access AWS credentials
+[kubectx](https://github.com/ahmetb/kubectx) - Power tools for kubectl
+[saws](https://github.com/donnemartin/saws) - AWS Shell
+[localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack
 
 ## Gitlab
-gitlab-cli
+[python-gitlab](https://github.com/python-gitlab/python-gitlab) - Python package providing access to the GitLab server API (with CLI).
 
 ## Jenkins
 
 ## Learning
-System design primer - learning system design - [link](https://github.com/donnemartin/system-design-primer)
+[System design primer - learning system design](https://github.com/donnemartin/system-design-primer)
+[Learn git branching - Interactive git tutorial](https://learngitbranching.js.org/)
 
 ## Git
-Learn git branching - Interactive git tutorial - [link](https://learngitbranching.js.org/)
-gogs - Git server ui - [link](https://github.com/gogs/gogs)
+[gitea](https://github.com/go-gitea/gitea) - a self-hosted Git service with nice web GUI
+[gita](https://github.com/nosarthur/gita) - Manage multiple repositories
+[gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust
 
-## Version control
-bump2version - Version bumping - [link](https://github.com/c4urself/bump2version)
+## Version manipulation
+[bump2version](https://github.com/c4urself/bump2version) - Version bumping
+[python-semver](https://github.com/python-semver/python-semver) - A Python module for semantic versioning. Simplifies comparing versions
+
+## Security
+[pass](https://github.com/zx2c4/password-store) - Password manager using GPG keys
+[pass-otp](https://github.com/tadfisher/pass-otp) - One time password integration for pass
+[pass-import](https://github.com/roddhjav/pass-import) - Import passwords to pass
+[bandwhich](https://github.com/imsnif/bandwhich) - Inspect process bandwidth usage 
+
+## Package managers
+[cargo](https://github.com/rust-lang/cargo) - Package manager for rust, distributed by default with Rust.
+[pip](https://github.com/pypa/pip) - pip is the package installer for Python
+
+## Terraform
+[tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
+
+## Communication
+[toot](https://github.com/ihabunek/toot) - Command line and TUI for Mastodon
+
+
+## Python
+[pyenv](https://github.com/pyenv/pyenv) - Python version manager
+[pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - pyenv-virtualenv is a pyenv plugin that provides features to manage virtualenvs and conda environments for Python on UNIX-like systems.
+
+## Text processing
+[q](https://github.com/harelba/q) - q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs
+[grex](https://github.com/pemistahl/grex) - Rust library/cli for generating regular expressions
+[ripgrep](https://github.com/BurntSushi/ripgrep) - a line-oriented search tool that recursively searches your current directory for a regex pattern
+[bingrep](https://github.com/m4b/bingrep) - Greps through binaries from various OSs and architectures, and colors them
+
+## System and Network monitoring
+[bandwhich](https://github.com/imsnif/bandwhich) - a CLI utility for displaying current network utilization by process, connection and remote IP/hostname
+[bottom](https://github.com/ClementTsang/bottom) - A cross-platform graphical process/system monitor with a customizable interface and a multitude of features
