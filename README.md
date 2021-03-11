@@ -75,10 +75,10 @@ Awesome resources
 ## Communication
 [toot](https://github.com/ihabunek/toot) - Command line and TUI for Mastodon
 
-
 ## Python
 [pyenv](https://github.com/pyenv/pyenv) - Python version manager
 [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - pyenv-virtualenv is a pyenv plugin that provides features to manage virtualenvs and conda environments for Python on UNIX-like systems.
+[cookiecutter]()
 
 ## Text processing
 [q](https://github.com/harelba/q) - q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs
@@ -89,3 +89,9 @@ Awesome resources
 ## System and Network monitoring
 [bandwhich](https://github.com/imsnif/bandwhich) - a CLI utility for displaying current network utilization by process, connection and remote IP/hostname
 [bottom](https://github.com/ClementTsang/bottom) - A cross-platform graphical process/system monitor with a customizable interface and a multitude of features
+
+## Productivity
+[khal](https://github.com/pimutils/khal) - Khal is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.
+[khard](https://github.com/scheibler/khard) - an address book for the Unix console
+[pass](https://www.passwordstore.org/) - Password management should be simple and follow Unix philosophy
+[pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
