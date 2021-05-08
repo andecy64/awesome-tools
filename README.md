@@ -62,6 +62,7 @@
 [pass-otp](https://github.com/tadfisher/pass-otp) - One time password integration for pass  
 [pass-import](https://github.com/roddhjav/pass-import) - Import passwords to pass  
 [bandwhich](https://github.com/imsnif/bandwhich) - Inspect process bandwidth usage   
+[firejail](https://github.com/netblue30/firejail) - An SUID Sandbox to reduce securyt break risk when running untrusted applications
 
 ## Package managers
 [cargo](https://github.com/rust-lang/cargo) - Package manager for rust, distributed by default with Rust.  
