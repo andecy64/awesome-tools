@@ -63,6 +63,7 @@
 [pass-import](https://github.com/roddhjav/pass-import) - Import passwords to pass  
 [bandwhich](https://github.com/imsnif/bandwhich) - Inspect process bandwidth usage   
 [firejail](https://github.com/netblue30/firejail) - An SUID Sandbox to reduce securyt break risk when running untrusted applications
+[gopass](https://github.com/gopasspw/gopass) - gopass is a password manager for the command line
 
 ## Package managers
 [cargo](https://github.com/rust-lang/cargo) - Package manager for rust, distributed by default with Rust.  
@@ -92,5 +93,3 @@
 ## Productivity
 [khal](https://github.com/pimutils/khal) - Khal is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through vdirsyncer.  
 [khard](https://github.com/scheibler/khard) - an address book for the Unix console  
-[pass](https://www.passwordstore.org/) - Password management should be simple and follow Unix philosophy  
-[pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens  
